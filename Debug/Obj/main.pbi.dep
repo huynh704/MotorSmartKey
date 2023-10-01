@@ -1,0 +1,20 @@
+main.pbi: C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\main.c \
+  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc\stm8s.h \
+  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc/stm8s_conf.h \
+  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc/stm8s.h \
+  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc/stm8s_clk.h \
+  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc/stm8s_gpio.h \
+  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc/stm8s_uart1.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc\stm8s_spi.h \
+  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc\stm8s_tim2.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\LIB\dlstm8smn.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\xencoding_limits.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Threads.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ysizet.h \
+  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc\stm8s_flash.h
