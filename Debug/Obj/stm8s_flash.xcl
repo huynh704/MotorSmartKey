@@ -1,22 +1,22 @@
-"C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\src\stm8s_flash.c"
+"C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\Library\src\stm8s_flash.c"
 -std=c99
 -ferror-limit=0
 -fbracket-depth=512
 -MD
 -MF
-C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Debug\Obj\stm8s_flash.pbi.dep
+C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\Debug\Obj\stm8s_flash.pbi.dep
 -o
 stm8s_flash.pbi
 -I
-C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\src
+C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\Library\src
 -I
-C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc
+C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\Library\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\stm8\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\stm8\inc\c
 -I
-C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc
+C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\Library\inc
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0

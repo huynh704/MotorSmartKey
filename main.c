@@ -1,7 +1,7 @@
 #include "stm8s.h"
 #include "stm8s_spi.h"
 #include "stm8s_tim2.h"
-#include "string.h"
+#include <string.h>
 #include "stm8s_flash.h"
 
 //User Define
@@ -278,6 +278,11 @@ void main()
             File_Operator(WRITE, PASSWORD_ADDR, &pass[0], sizeof(pass));
             uartSend("Password is clear\n");
           }
+//          else if(strstr((char*)uart1.ReceiveData, "+PassChange:") != NULL)
+//          {
+//            memcpy(pass, strstr((char*)uart1.ReceiveData, ":") + 1, sizeof(pass));
+//            uartSend((char*)pass);
+//          }
           else if(strcmp((char*)uart1.ReceiveData, "+DISCONNECT") == 0)
           {
             n_AutoSeq = 7;
@@ -287,7 +292,7 @@ void main()
         if(GPIO_ReadInputPin(Key_Port, Key_Pin) == RESET)
         {
           BitStatus bCheckKey = RESET;
-          for(int i = 0; i  < 100; i++)
+          for(int i = 0; i  < 1000; i++)
           {
             Time.Step = Time.millis;
             while(Time.millis - Time.Step < 5);

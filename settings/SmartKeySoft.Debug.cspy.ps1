@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\settings\SmartKeySoft.Debug.general.xcl" --backend -f "C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\settings\SmartKeySoft.Debug.driver.xcl" 
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\settings\SmartKeySoft.Debug.general.xcl" --backend -f "C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\settings\SmartKeySoft.Debug.driver.xcl" 
 }
 else
 {
-& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\settings\SmartKeySoft.Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\settings\SmartKeySoft.Debug.driver.xcl" 
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\settings\SmartKeySoft.Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\settings\SmartKeySoft.Debug.driver.xcl" 
 }

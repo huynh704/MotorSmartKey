@@ -1,9 +1,9 @@
 stm8s_flash.pbi: \
-  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\src\stm8s_flash.c \
-  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc\stm8s_flash.h \
-  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc/stm8s.h \
-  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc/stm8s_conf.h \
-  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc/stm8s_clk.h \
-  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc/stm8s_gpio.h \
-  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc/stm8s_uart1.h \
+  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\Library\src\stm8s_flash.c \
+  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\Library\inc\stm8s_flash.h \
+  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\Library\inc/stm8s.h \
+  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\Library\inc/stm8s_conf.h \
+  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\Library\inc/stm8s_clk.h \
+  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\Library\inc/stm8s_gpio.h \
+  C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\Library\inc/stm8s_uart1.h \
   C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h

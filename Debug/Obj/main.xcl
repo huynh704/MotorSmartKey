@@ -1,22 +1,22 @@
-"C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\main.c"
+"C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\main.c"
 -std=c99
 -ferror-limit=0
 -fbracket-depth=512
 -MD
 -MF
-C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Debug\Obj\main.pbi.dep
+C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\Debug\Obj\main.pbi.dep
 -o
 main.pbi
 -I
-C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware
+C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey
 -I
-C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc
+C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\Library\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\stm8\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\stm8\inc\c
 -I
-C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\Library\inc
+C:\Users\hoang\OneDrive\Desktop\KhoaXeMay\Firmware\MotorSmartKey\Library\inc
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0
